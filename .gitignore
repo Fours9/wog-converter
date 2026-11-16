@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.unity3d
+*.bytes
+*.glb
+*.gltf
+*.zip
+*.rar
+__data
+__info
+__lock
+AssetRipper_export_*/
